@@ -36,5 +36,20 @@ p {
   text-align: center;
 }
 
+.our-mission
+  p {
+    width: auto;
+    text-align: center;
+  }
+
+.our-mission
+  subtitle {
+    color:  purple;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+  }
+
+
 
 
