@@ -28,6 +28,6 @@ export default function CounterButton() {
           }}
         >
           The count on this button is {count}
-        </Button>
+    </Button>
 	);
 }

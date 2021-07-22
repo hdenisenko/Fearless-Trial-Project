@@ -19,6 +19,6 @@ export default function SetKeyCounterButton() {
           }}
         >
           The count on this button is {count}
-        </Button>
+    </Button>
 	);
 }
