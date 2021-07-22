@@ -1,5 +1,6 @@
 .App-header {
   background-color: #282c34;
+  height:  30px;
 }
 
 .title-and-icon {
@@ -29,6 +30,7 @@ img {
 
 .mid-start {
   margin-left: 50px;
+  margin-right: 50px;
 }
 
 p {
@@ -43,7 +45,7 @@ p {
   }
 
 .our-mission
-  subtitle {
+  title {
     color:  purple;
     font-size: 30px;
     text-align: center;
